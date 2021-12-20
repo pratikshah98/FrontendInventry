@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "InventoryFrontend"
+    }
+  },
+  "defaultProject": "InventoryFrontend",
+  "cli": {
+    "analytics": "fdfa64b3-79cf-417d-9d47-afc7e8d95af0"
+  }
 }
